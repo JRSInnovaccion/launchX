@@ -1,2 +1,2 @@
 # launchX
-Repositorio para Actividades del Proyecto LauunchX
+Repositorio para Actividades del Proyecto LaunchX
